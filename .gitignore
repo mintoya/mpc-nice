@@ -9,3 +9,6 @@ examples/smallc
 examples/foobar
 examples/tree_traversal
 build/*
+/compile_commands.json
+/deps/wheels
+/mpc.pch
